@@ -1,0 +1,1 @@
+.anonymous-show{display:none !important}div.user-show,p.user-show{display:block !important}span.user-show,small.user-show{display:inline !important}table.user-show{display:table !important}tr.user-show{display:table-row !important}th.user-show{display:table-cell !important}td.user-show{display:table-cell !important}li.user-show{display:list-item !important}
